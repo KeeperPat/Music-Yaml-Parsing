@@ -17,4 +17,4 @@ The first part of the challenge is easy, so I'm not adding it here. The second p
 
 I chose to rely on the `method_missing` method in ruby.
 
-Find it n the file called yaml_parser.rb
+Find the solution in yaml_parser.rb
