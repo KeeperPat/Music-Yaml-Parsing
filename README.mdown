@@ -9,3 +9,12 @@ Your parsing code should return an object that allows you to access attributes u
 The returned object should also allow you to access attributes using method calls:
 
     data.genres.last.artists.first.albums.first.tracks.last.name => "But Not For Me"
+
+
+# My solution
+
+The first part of the challenge is easy, so I'm not adding it here. The second part required a bit of meta-programming, which was fun.
+
+I chose to rely on the `method_missing` method in ruby.
+
+Find the solution in yaml_parser.rb
