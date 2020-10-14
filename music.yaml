@@ -35,4 +35,18 @@ genres:
             - name: Every Time We Say Goodbye
             - name: Summertime
             - name: But Not For Me
-
+    artists:
+      - name: Stan Kenton
+        albums:
+        - name: West Side Story
+          tracks:
+            - name: Prologue
+            - name: Something's Coming
+            - name: Maria
+            - name: America
+            - name: Tonight
+            - name: Cool
+            - name: I Feel Pretty
+            - name: Officer Krupke
+            - name: Taunting Scene (The Rumble)
+            - name: Somewhere - Finale
